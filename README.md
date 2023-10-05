@@ -6,8 +6,8 @@ This repository contains the resources csv files, code and analysis for the Pyma
 ## Dataset Overview
 The dataset used in this analysis contains information on 249 mice, each with SCC tumors, and their response to various drug regimens. The study spanned 45 days, during which tumor development was monitored and measured. The primary focus of this analysis is to compare the effectiveness of Capomulin, one of the drugs of interest, against other treatment regimens.
 
-## Repository Structure
-This repository is organized into several sections, each corresponding to a specific task or aspect of the data analysis:
+## Python code Structure
+The python code is organized into several sections, each corresponding to a specific task or aspect of the data analysis:
 
   **01_prepare_data**: The Python code contains data preprocessing, including merging datasets, identifying and removing duplicate mouse data, and ensuring data cleanliness.
 
